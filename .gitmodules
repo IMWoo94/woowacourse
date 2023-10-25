@@ -1,0 +1,12 @@
+[submodule "java-baseball-6"]
+	path = java-baseball-6
+	url = git@github.com:IMWoo94/java-baseball-6.git
+[submodule "java-baseball-6-mirror"]
+	path = java-baseball-6-mirror
+	url = git@github.com:IMWoo94/java-baseball-6-mirror.git
+[submodule "precource1"]
+	path = precource1
+	url = git@github.com:IMWoo94/java-baseball-6.git
+[submodule "precource1-mirror"]
+	path = precource1-mirror
+	url = git@github.com:IMWoo94/java-baseball-6-mirror.git
