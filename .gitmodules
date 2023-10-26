@@ -10,3 +10,9 @@
 [submodule "precource1-mirror"]
 	path = precource1-mirror
 	url = git@github.com:IMWoo94/java-baseball-6-mirror.git
+[submodule "precource2"]
+	path = precource2
+	url = git@github.com:IMWoo94/java-racingcar-6.git
+[submodule "precource2-mirror"]
+	path = precource2-mirror
+	url = git@github.com:IMWoo94/java-racingcar-6-mirror.git
