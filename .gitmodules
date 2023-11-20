@@ -22,3 +22,6 @@
 [submodule "precource3-mirror"]
 	path = precource3-mirror
 	url = git@github.com:IMWoo94/java-lotto-6-mirror.git
+[submodule "precource4"]
+	path = precource4
+	url = git@github.com:IMWoo94/java-christmas-6-IMWoo94.git
